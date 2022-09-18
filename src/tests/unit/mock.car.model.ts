@@ -1,4 +1,4 @@
-import { ICar } from '../../../interfaces/ICar'
+import { ICar } from '../../interfaces/ICar'
 
 const mockCreate: ICar & {_id: string} = {
     _id: "4edd40c86762e0fb12000003",

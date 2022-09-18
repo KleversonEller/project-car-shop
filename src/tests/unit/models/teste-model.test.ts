@@ -2,7 +2,7 @@ import * as sinon from 'sinon';
 import chai from 'chai';
 import CarsModel from '../../../models/car.model';
 import { Model } from 'mongoose';
-import { mockCreate } from './mock.car.model';
+import { mockCreate } from '../mock.car.model';
 
 const { expect } = chai;
 
